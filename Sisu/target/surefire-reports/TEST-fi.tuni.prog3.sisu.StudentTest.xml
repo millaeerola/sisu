@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="15" failures="0" name="fi.tuni.prog3.sisu.StudentTest" time="0.245" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="18.0.1+10-24"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-18.0.1.jdk/Contents/Home/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="FI"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="18.0.1+10-24"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/05/ggp5b7h11nd8d7_q0lmp4d300000gp/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="maven.ext.class.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/EEROLMI/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.15.6"/>
+    <property name="library.jansi.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/EEROLMI"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="user.name" value="EEROLMI"/>
+    <property name="java.class.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.ext.class.path=/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven-nblib/netbeans-eventspy.jar test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-18.0.1.jdk/Contents/Home"/>
+    <property name="apple.awt.application.name" value="Launcher"/>
+    <property name="user.language" value="fi"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="18.0.1"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetName" time="0.006"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetStudentNumber" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetStartYear" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetGraduationYear" time="0.001"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetDegreeProgramme" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetAttainments" time="0.003"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetCredits" time="0.001"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testGetAverage" time="0.05"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testSetName" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testSetStudentNumber" time="0.001"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testSetStartYear" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testSetGraduationYear" time="0.001"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testSetProgramme" time="0"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testAddAttainment" time="0.001"/>
+  <testcase classname="fi.tuni.prog3.sisu.StudentTest" name="fi.tuni.prog3.sisu.StudentTest.testStudentInfo" time="0.181"/>
+</testsuite>

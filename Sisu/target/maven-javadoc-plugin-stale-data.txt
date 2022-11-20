@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'/Users/EEROLMI/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar:/Users/EEROLMI/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-mac.jar:/Users/EEROLMI/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar:/Users/EEROLMI/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-mac.jar:/Users/EEROLMI/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar:/Users/EEROLMI/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-mac.jar:/Users/EEROLMI/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sisu 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sisu 1.0 API'
+fi.tuni.prog3.sisu
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar = 1650799783295
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-mac.jar = 1650799785192
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar = 1650799783427
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-mac.jar = 1650799786004
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar = 1650799783422
+/Users/EEROLMI/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-mac.jar = 1650799783648
+/Users/EEROLMI/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar = 1650799783751
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/src/main/java = 1651413483137
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/tag-search-index.js = 1651415339784
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/overview-tree.html = 1651415339746
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/module-search-index.js = 1651415339782
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/index.html = 1651415339822
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/package-search-index.js = 1651415339783
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/jquery-ui.overrides.css = 1651415339848
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/index-all.html = 1651415339820
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/allpackages-index.html = 1651415339780
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/member-search-index.js = 1651415339784
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/copy.svg = 1651415339832
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/script.js = 1651415339831
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/stylesheet.css = 1651415339829
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/help-doc.html = 1651415339827
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/element-list = 1651415339639
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/allclasses-index.html = 1651415339776
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/type-search-index.js = 1651415339783
+/Users/EEROLMI/Desktop/milla.-helmi.-sami/Sisu/target/site/apidocs/search.js = 1651415339834

@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Erkki Esimerkki",
+    "studentNumber": "K578889Y",
+    "startYear": 2010,
+    "graduationYear": 2018,
+    "programme": {
+      "type": "degreeProgramme",
+      "name": "Tietojenkäsittelytieteiden kandidaattiohjelma",
+      "code": "TIEK",
+      "credits": 180,
+      "modules": []
+    },
+    "attainments": [
+      {
+        "course": {
+          "name": "Opintojen ohjattu suunnittelu",
+          "code": "COMP.CS.020",
+          "credits": 2,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Johdatus tietojenkäsittelytieteisiin",
+          "code": "COMP.CS.050",
+          "credits": 3,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Digitaaliset yleistaidot, teema 1: Yliopiston tietotekninen ympäristö",
+          "code": "COMP.CS.011",
+          "credits": 1,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 0
+      },
+      {
+        "course": {
+          "name": "Digitaaliset yleistaidot, teema 2: Taulukkomuotoisen tiedon käsittely ja tiedon visualisointi",
+          "code": "COMP.CS.012",
+          "credits": 1,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 0
+      },
+      {
+        "course": {
+          "name": "Digitaaliset yleistaidot, teema 3: Tekstimuotoisen tiedon käsittely sekä kuvankäsittelyn ja verkossa julkaisemisen periaatteet",
+          "code": "COMP.CS.013",
+          "credits": 1,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 0
+      },
+      {
+        "course": {
+          "name": "Tilastotieteen johdantokurssi",
+          "code": "DATA.STAT.110",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 4
+      },
+      {
+        "course": {
+          "name": "Johdatus yliopistomatematiikkaan",
+          "code": "MATH.APP.010",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 4
+      },
+      {
+        "course": {
+          "name": "Diskreetti matematiikka",
+          "code": "MATH.MA.210",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 4
+      },
+      {
+        "course": {
+          "name": "Functional programming 1",
+          "code": "COMP.CS.130",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Web for Content Authors and Information Scientists",
+          "code": "COMP.CS.200",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 2
+      },
+      {
+        "course": {
+          "name": "Ohjelmointi 1: Johdatus ohjelmointiin",
+          "code": "COMP.CS.100",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 2
+      },
+      {
+        "course": {
+          "name": "Ohjelmointi 2: Rakenteet",
+          "code": "COMP.CS.110",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 3
+      }
+    ],
+    "credits": 43,
+    "gradeSum": 28.0,
+    "gradeCount": 9,
+    "average": 3.111111111111111
+  },
+  {
+    "name": "Maija Mallikas",
+    "studentNumber": "T444987",
+    "startYear": 2008,
+    "graduationYear": 2016,
+    "programme": {
+      "type": "degreeProgramme",
+      "name": "Tieto- ja sähkötekniikan kandidaattiohjelma",
+      "code": "TSTK",
+      "credits": 180,
+      "language": "fi",
+      "Id": "otm-d729cfc3-97ad-467f-86b7-b6729c496c82",
+      "modules": []
+    },
+    "attainments": [
+      {
+        "course": {
+          "name": "Tietoliikennetekniikan perusteet",
+          "code": "COMM.100",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": "YdinsisältöAnalogisen ja digitaalisen tiedonsiirron perusteet. Lähettimen ja vastaanottimen toiminnalliset lohkot ja niiden tehtävät.Siirtotiet: Kuparijohdot ja valokuitu. Radioaallot ja antennit.Analogiset ja digitaaliset modulaatiot. Signaali-kohinasuhde. Symbolivirhesuhde.Langalliset ja langattomat tietoliikenneverkot. Tahdistuminen ja kehysrakenteet. Kanavointi. Lähiverkko ja internetin protokollat.Tietoliikenteen tulevaisuus ja pääkehityssuunnat."
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Johdatus sulautettuihin järjestelmiin",
+          "code": "COMP.CE.100",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": "YdinsisältöJänniteohjatun transistorin toiminta digitaalitekniikassa. Perusportit.Kombinatorisen logiikan suunnittelu. Totuustaulut, Boolen algebra ja porttiverkot.Binääriaritmetiikka. Kahden komplementtiluvut, yhteen-/vähennyslasku, ylivuoto, kertolasku ja siirrot.RISC-tyyppisen prosessorin rakenne (datapolku). Konekielinen käsky, sen haku ja suoritus. Käsky- ja datamuisti, rekisterit, ALU.Aliohjelmat ja funktiot. Parametrien välitys. Pino ja aktivaatiotietue.Korkean tason laitteistonläheinen ohjelmointi. Oheislaitteen käyttöönotto ja käyttäminen ohjelmallisesti. Ajan hallinta. Ohjelman toiminnan varmentaminen matalalla tasolla.Täydentävä tietämysCmos-teknologia.Hierarkkinen suunnittelu (komponenttisuunnittelu).Dynaaminen/staattinen ja haitumaton/haihtuva muisti. Korkean tason koodin optimointi. "
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Ohjelmointi 1: Johdatus ohjelmointiin",
+          "code": "COMP.CS.100",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": "YdinsisältöOhjelman ja algoritmin käsitteet. Pienten ohjelmien suunnitteleminen ja testaus.Suunnitteleminen jakamalla pienempiin osakokonaisuuksiin: funktiot.Parametrit ja paluuarvon välitys.Ohjelman ohjausrakenteet.Muuttujat. Näkyvyysalue. Tiedon tyyppi.Merkkijonot ja listat.Tiedostojen peruskäsittely.Hyvä ohjelmointitapa.Täydentävä tietämysJoukot ja sanakirjat.Tietorakenteiden yhdistely.Luokkien ja olioiden perusteet.Graafiset käyttöliittymien alkeet.ErityistietämysParametrien oletusarvot.Funktionaalisesti muodostetut listat (list comprehensions).Funktioparametrit.Luokan erikoismetodit.Monikko (tuple)."
+        },
+        "passed": true,
+        "grade": 1
+      },
+      {
+        "course": {
+          "name": "Ohjelmointi 2: Rakenteet",
+          "code": "COMP.CS.110",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": "YdinsisältöOhjelman jakaminen helpommin hallittaviin osiin sekä muita tyyliseikkoja.Modulaarisuus ja luokkien käyttö.Olio-ohjelmoinnin perusteet.Rekursio.STL-kirjasto.Perussäiliöt (vector, set, map).Iteraattorit.Arvot, viitteet ja osoittimet.Dynaaminen muistinhallinta.Dynaamisten tietorakenteiden perusteet.Linkitetty lista.Älykkäät osoittimet.Graafisen käyttöliittymän ohjelmoinnin alkeet.Tavallisimmat käyttöliittymäelementit.Signal-slot -mekanismin alkeet.Versionhallinta (yhden ohjelmoijan projekteissa).Kääntäminen verrattuna tulkkaukseen.Täydentävä tietämysPeriytymisen alkeet.STL-algoritmit.Lisää STL-säiliöitä (list, deque).Funktio-osoittimet.Osoitinaritmetiikka.Taulukot.Lisää käyttöliittymäelementtejä.Etätietovarastot versionhallinnassa.Käännösprosessi (esiprosessori, linkitys)."
+        },
+        "passed": true,
+        "grade": 2
+      },
+      {
+        "course": {
+          "name": "Tietorakenteet ja algoritmit 1",
+          "code": "COMP.CS.300",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": ""
+        },
+        "passed": true,
+        "grade": 3
+      },
+      {
+        "course": {
+          "name": "Signaalinkäsittelyn perusteet",
+          "code": "COMP.SGN.100",
+          "credits": 5,
+          "numericGrading": true,
+          "courseInfo": "YdinsisältöDigitaalisen signaalinkäsittelyn perusteet: näytteenottoteoreema, diskreetit signaalit ja niiden ominaisuudet, digitaaliset lineaariset järjestelmät ja niiden ominaisuudet, konvoluutio.Lineaaristen järjestelmien analyysi: diskreetti Fourier-muunnos, FFT, z-muunnos, siirtofunktio ja taajuusvaste.Lineaaristen järjestelmien synteesi: FIR-suodinten suunnittelu ikkunamenetelmällä.Näytteenottotaajuuden muuntelu: interpolointi- ja desimointioperaatiot.Koneoppimisen toimintaperiaatteet: lähimmän naapurin luokittelija, lineaarinen luokittelija ja hermoverkko.Katsaus sovelluksiin. Lisäksi pyritään saamaan vierailuluennoitsijoita yliopistolta ja teollisuudesta.Täydentävä tietämysFourier-muunnos, Fourier-sarja ja diskreettiaikainen Fourier-muunnos.Näytteenottotaajuuden muuntelun sovelluksia A/D- ja D/A-muunnoksessa.ErityistietämysParks-McClellan algoritmi"
+        },
+        "passed": true,
+        "grade": 3
+      }
+    ],
+    "credits": 30,
+    "gradeSum": 15.0,
+    "gradeCount": 6,
+    "average": 2.5
+  }
+]
